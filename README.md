@@ -1,52 +1,28 @@
-# Project Title
+# Wild Dash
 
-Simple overview of use/purpose.
+Juego de desplazamiento infinito 
 
-## Description
+## Descripción
 
-An in-depth paragraph about your project and overview of use.
+Juego básico para el aprendizaje de Unity
 
-## Getting Started
+### Instalación
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+El proceso de instalación es sencillo, siguiendo las instrucciones del libro, basicamente al igual que cualquier aplicación Android, se instala el APK generado por Unity
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Guillermo Garcia
+guillegladstudios@gmail.com
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+* 1.0.1
+    * Version Jugable
+* 1.0.2
+    * Cambios y detalles básicos
 
 ## License
 
